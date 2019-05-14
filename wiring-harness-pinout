@@ -1,0 +1,10 @@
+The existing wiring harness for the rubidium oscillator:
+
+1 = RF out (50 ohms terminated)
+2 = Ground
+3 = Analog frequency control
+4 = 15v supply
+5 = /Lock
+6 = /Service
+7 = 5v supply
+"8" = 1 PPS output
